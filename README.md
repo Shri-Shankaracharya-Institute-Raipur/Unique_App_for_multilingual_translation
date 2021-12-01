@@ -1,7 +1,7 @@
 Steps to boot the server normally
 
 1. install node on your local machine
-2. run the command :- git clone https://github.com/Nayanava/localizer.git
+2. run the command :- git clone https://github.com/Suraksha-mandhan/localizer.git
 3. once you have the codebase on your local
     - navigate to the location <path_to_directory>/localizer
 4. Execute the command
